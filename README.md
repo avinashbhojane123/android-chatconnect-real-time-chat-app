@@ -1,15 +1,6 @@
 # ChatConnect - Real-Time Chat and Communication App
 
 ChatConnect is a modern real-time chat application developed using **Kotlin**, **Jetpack Compose**, and **Firebase**. It offers seamless and secure communication with an intuitive interface — ideal for both academic and collaborative communication.
-
----
-
-## 🔗 Demo
-
-**[https://drive.google.com/file/d/1rZDizv3mStcMBN7an3YznI5x-ff70118/view?usp=sharing](#)**  
-
-**[https://github.com/Rohitmh09/android-chatconnect-real-time-chat-app.git](#)**
-
 ---
 
 
@@ -59,7 +50,8 @@ ChatConnect/
 
 ## Author
 
-**Rohit Ananda Mahadik**  
+**Avinash Bhojane**  
 Student, **D Y Patil Agriculture and Technical University, Talsande**  
 Project developed under **Smart-Internz – Android Development with Kotlin (Externship Program)**
 
+# android-chatconnect-real-time-chat-app
